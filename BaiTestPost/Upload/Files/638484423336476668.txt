@@ -1,0 +1,15 @@
+User
+- dang ky
+- dang nhap
+- them bai viet
+- sua, xoa bai viet
+- viet comment
+- like bai viet
+- like comment cua bai viet
+- suu tam bai viet
+- following
+- quan ly trang thai nguoi dung(dang hoat dong, vang mat, ban)
+- quan ly trang thai bai viet(cong khai, rieng tu, an)
+admin
+
+

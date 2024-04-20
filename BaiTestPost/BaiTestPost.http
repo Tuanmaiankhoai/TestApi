@@ -1,0 +1,6 @@
+@BaiTestPost_HostAddress = http://localhost:5162
+
+GET {{BaiTestPost_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
